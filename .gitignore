@@ -1,0 +1,10 @@
+
+*.jpg
+*.png
+*.pt
+*.0
+*.1
+*.2
+data/geo/class_dict.csv
+data/geo/metadata.csv
+landcover-classification-unet.ipynb
