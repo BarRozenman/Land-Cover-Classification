@@ -8,3 +8,6 @@
 data/geo/class_dict.csv
 data/geo/metadata.csv
 landcover-classification-unet.ipynb
+.idea/*
+*.pyc
+lightning_logs/landcover-classification-log/version_0/hparams.yaml
